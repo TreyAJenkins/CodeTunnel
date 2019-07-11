@@ -2,7 +2,9 @@
     "FIREBASE": {
         "API_KEY": ""
     },
-    "SERVER": {
-        "URL": ""
+    "XPDR": {
+        "NAME": "",
+        "LOCATION": "",
+        "UUID": ""
     }
 }
