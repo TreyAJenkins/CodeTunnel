@@ -1,5 +1,8 @@
 {
     "FIREBASE": {
         "API_KEY": ""
+    },
+    "SERVER": {
+        "URL": ""
     }
 }
