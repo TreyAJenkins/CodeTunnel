@@ -1,5 +1,10 @@
 {
     "FIREBASE": {
         "API_KEY": ""
+    },
+    "XPDR": {
+        "NAME": "",
+        "LOCATION": "",
+        "UUID": ""
     }
 }
